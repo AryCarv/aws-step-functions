@@ -19,9 +19,9 @@ A orquestração das terefas cria uma estrutura organizada através da ligação
 
 ## Aplicações que podem ser desenvolvidas no Step Functions
 
-Com o Step Functions é possível desenvolver inúmeros tipos de aplicações que podem satisfazer as mais diversas necessidades. Com os serviços disponíveis na AWS é possível agrupar e orquestrar vários tipos de tarefas sem utilizar nenhum código, pois tudo já está disponível na plataforma através de caixas de opções para clicar e arrastar compondo então a estrutura da aplicação desejada.
+Com o Step Functions é possível desenvolver inúmeros tipos de aplicações que podem satisfazer as mais diversas necessidades. Com os serviços disponíveis na AWS é possível agrupar e orquestrar vários tipos de tarefas sem utilizar nenhum código, pois tudo já está disponível na plataforma através de caixas de opções para clicar e arrastar, compondo então a estrutura da aplicação desejada.
 
-Pode-se então desenvolver aplicações para serem utilizadas com bancos de dados, armazenamento de arquivos, inteligência artificial, chat bots e muito mais, ou seja, tudo o que a plataforma da AWS permitir e sem ter que codificar, apenas clicando e arrastando os serviços para compor a aplicação.
+Pode-se então desenvolver aplicações para serem utilizadas com bancos de dados, armazenamento de arquivos, inteligência artificial, chat bots e muito mais, ou seja, tudo o que a plataforma da AWS permitir e sem ter que codificar, apenas clicando, arrastando e soltando os serviços para compor a aplicação.
 
 ## Como iniciar?
 
